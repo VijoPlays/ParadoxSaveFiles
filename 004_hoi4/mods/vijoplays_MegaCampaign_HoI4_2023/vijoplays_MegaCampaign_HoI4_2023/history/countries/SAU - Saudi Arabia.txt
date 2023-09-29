@@ -22,7 +22,11 @@ if = {
 	set_technology = { camelry = 1 }
 }
 
-set_convoys = 5
+set_convoys = 0
+
+recruit_character = SAU_astolfo
+recruit_character = SAU_ruka_urushibara
+recruit_character = SAU_david_bowie
 
 create_country_leader = {
 	name = "Luka Urushibara"

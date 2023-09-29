@@ -3,7 +3,6 @@ state={
 	name="STATE_523"
 
 	history={
-		add_core_of = AST
 		owner = AST
 		buildings = {
 			infrastructure = 1
@@ -33,7 +32,7 @@ state={
 		victory_points = {
 			12237 1 
 		}
-
+		add_core_of = AST
 	}
 
 	provinces={

@@ -143,6 +143,10 @@ if = {
 	}
 }
 
+recruit_character = ITA_astolfo
+recruit_character = ITA_ruka_urushibara
+recruit_character = ITA_david_bowie
+
 create_country_leader = {
 	name = "Astolfo of England"
 	desc = "Rider of Black"

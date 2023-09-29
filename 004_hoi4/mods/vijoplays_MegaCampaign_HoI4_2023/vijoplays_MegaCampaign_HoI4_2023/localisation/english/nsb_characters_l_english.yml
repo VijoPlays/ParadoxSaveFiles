@@ -956,3 +956,15 @@
  FEM_astolfo:0 "$fem_astolfo$"
  FEM_ruka_urushibara:0 "$fem_ruka_urushibara$"
  FEM_david_bowie:0 "$fem_david_bowie$"
+
+ SAU_astolfo:0 "$fem_astolfo$"
+ SAU_ruka_urushibara:0 "$fem_ruka_urushibara$"
+ SAU_david_bowie:0 "$fem_david_bowie$"
+
+ ITA_astolfo:0 "$fem_astolfo$"
+ ITA_ruka_urushibara:0 "$fem_ruka_urushibara$"
+ ITA_david_bowie:0 "$fem_david_bowie$"
+
+ PRC_astolfo:0 "$fem_astolfo$"
+ PRC_ruka_urushibara:0 "$fem_ruka_urushibara$"
+ PRC_david_bowie:0 "$fem_david_bowie$"

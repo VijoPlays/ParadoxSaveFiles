@@ -10,8 +10,9 @@ state={
 		}
 		owner = SAU
 		add_core_of = SAU
-add_core_of = AST
-add_core_of = PHI
+		add_core_of = SIK
+		add_core_of = AST
+		add_core_of = PHI
 	}
 	manpower=100000
 	state_category = rural

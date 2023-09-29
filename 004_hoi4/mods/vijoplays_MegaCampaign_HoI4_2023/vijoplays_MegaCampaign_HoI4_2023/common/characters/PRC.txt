@@ -1,0 +1,73 @@
+characters={
+	PRC_astolfo={
+        name=PRC_astolfo
+		portraits={
+			army={
+				small="GFX_idea_fem_astolfo"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = PRC_astolfo
+			allowed = {
+                original_tag = PRC
+            }
+            traits = {
+                captain_of_industry
+            }
+            cost = 150
+            ai_will_do = {
+                factor = 1.000
+            }
+            can_be_fired = no
+        }
+    }
+
+    PRC_ruka_urushibara={
+        name=PRC_ruka_urushibara
+		portraits={
+			army={
+				small="GFX_idea_fem_ruka_urushibara"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = PRC_ruka_urushibara
+			allowed = {
+                original_tag = PRC
+            }
+            traits = {
+                prince_of_terror
+            }
+            cost = 150
+            ai_will_do = {
+                factor = 1.000
+            }
+            can_be_fired = no
+        }
+    }
+
+    PRC_david_bowie={
+        name=PRC_david_bowie
+		portraits={
+			army={
+				small="GFX_idea_fem_david_bowie"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = PRC_david_bowie
+			allowed = {
+                original_tag = PRC
+            }
+            traits = {
+                appeasing_technocrat
+            }
+            cost = 150
+            ai_will_do = {
+                factor = 1.000
+            }
+            can_be_fired = no
+        }
+    }
+}

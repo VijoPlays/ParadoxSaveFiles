@@ -1,0 +1,99 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "FEM"
+		default = yes
+		
+		"FEM"={
+			history = "FEM_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"ITA"={
+			history = "ITA_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+				vittorio_emanuele
+			}	
+			focuses = {
+			}		
+		}
+
+		"USA"={
+			history = "USA_GATHERING_STORM_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"GER"={
+			history = "GER_GATHERING_STORM_DESC"
+			ideology = communism
+			ideas = {
+				general_staff
+			}
+			focuses = {
+			}
+		}
+		"SWE"={
+			history = "SWE_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}	
+			focuses = {
+			}		
+		}
+
+		"JAP"={
+			history = "JAP_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				state_shintoism
+				JAP_zaibatsus
+				JAP_militarism
+			}	
+			focuses = {
+			}			
+		}
+		"HUN"={
+			history = "SOV_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}	
+		}
+		"---"={
+			history = "OTHER_GATjkapHERING_STORM_DESC"
+		}
+
+
+		# minors from DLC ####
+		"CAN"={
+			minor = yes
+			history = "CAN_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				CAN_great_depression_1
+				CAN_conscription_crisis
+			}
+			focuses = {
+				CAN_skewer_the_eagle
+				CAN_north_american_alliance
+				CAN_join_comintern
+			}
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

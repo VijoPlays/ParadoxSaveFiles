@@ -4,6 +4,10 @@ state={
 
 	history={
 		owner = ZAM
+add_core_of  = NMB
+add_core_of = ANG
+add_core_of = ZAM
+add_core_of = SAF
 		add_core_of = ZAM
 		victory_points = {
 			12986 1 

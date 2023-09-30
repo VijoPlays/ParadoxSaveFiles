@@ -4,6 +4,11 @@ state={
 	history = {
 		add_core_of = CAM
 		owner = CAM
+add_core_of = SIA
+add_core_of = CAM
+add_core_of = INS
+add_core_of = BRM
+add_core_of = MAL
 		victory_points = {
 			7376 1
 		}

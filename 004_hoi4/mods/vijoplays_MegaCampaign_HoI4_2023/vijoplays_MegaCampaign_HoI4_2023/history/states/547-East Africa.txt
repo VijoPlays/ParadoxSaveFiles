@@ -7,6 +7,9 @@ state={
 
 	history={
 		owner = KEN
+add_core_of  = KEN
+add_core_of = TZN
+add_core_of = SOM
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

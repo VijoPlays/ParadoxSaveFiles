@@ -6,6 +6,11 @@ state={
 	}
 	history = {
 		owner = SIA
+add_core_of = SIA
+add_core_of = CAM
+add_core_of = INS
+add_core_of = BRM
+add_core_of = MAL
 		buildings = {
 			infrastructure = 1
 		}

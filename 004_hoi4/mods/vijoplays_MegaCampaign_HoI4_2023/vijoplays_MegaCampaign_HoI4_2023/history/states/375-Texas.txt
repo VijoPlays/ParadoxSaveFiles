@@ -28,6 +28,7 @@ state={
 		}
 		add_core_of = FEM
 		add_core_of = USA
+add_core_of = BEL
 		victory_points = {
 			10337 10
 		}

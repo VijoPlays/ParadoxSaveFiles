@@ -85,6 +85,19 @@ if = {
 	}
 }
 
+create_country_leader = {
+	name = "Franz Ferdinand"
+	desc = "Surely nothing bad is going to happen to him, right?"
+	picture = "Portrait_Franz_Ferdinand_Leader.dds"
+	expire = "4000.1.1"
+	ideology = centrism
+	traits = {
+		ideological_crusader
+		retired_officer
+		conservative_grandee
+	}
+}
+
 set_politics = {
 	ruling_party = neutrality
 	last_election = "1935.3.31"

@@ -218,6 +218,17 @@ create_import = {
 
 set_convoys = 400
 
+create_country_leader = {
+	name = "Pu Yi"
+	desc = "The one and only Emperor King"
+	picture = "Portrait_Pu_Yi_Leader.dds"
+	expire = "4000.1.1"
+	ideology = liberalism
+	traits = {
+		constitutional_monarch
+	}
+}
+
 
 set_politics = {
 	ruling_party = democratic
@@ -229,6 +240,8 @@ set_popularities = {
 	democratic = 100
 }
 
+create_faction = "Beacon of Democracy"
+add_to_faction = HUN
 
 if = {
 	limit = {

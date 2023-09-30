@@ -10,6 +10,8 @@ state={
 
 	history={
 		owner = SWI
+add_core_of = SWI
+add_core_of = LUX
 		add_core_of = TAH
 		victory_points = {
 			4268 1

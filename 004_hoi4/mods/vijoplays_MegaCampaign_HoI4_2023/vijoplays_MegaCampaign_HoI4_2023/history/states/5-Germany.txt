@@ -13,6 +13,8 @@ state={
 		#	11386 1
 		#}
 		owner = POL
+add_core_of  = POL
+add_core_of = BLR
 		
 		buildings = {
 			infrastructure = 3

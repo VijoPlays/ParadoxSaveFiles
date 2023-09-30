@@ -8,6 +8,8 @@ state={
 
 	history={
 		owner = SWI
+add_core_of = SWI
+add_core_of = LUX
 		add_core_of = RAJ
 		buildings = {
 			infrastructure = 3 #was: 5

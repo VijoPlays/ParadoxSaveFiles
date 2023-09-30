@@ -102,8 +102,20 @@ set_autonomy = {
 	freedom_level = 0.35
 }
 
+create_country_leader = {
+	name = "Urho Kekkonen"
+	desc = "The final Dictator of Scandinavia"
+	picture = "Portrait_Urho_Kekkonen_Leader.dds"
+	expire = "1999.1.1"
+	ideology = marxism
+	traits = {
+		captain_of_industry
+		dictator
+	}
+}
+
 set_politics = {
-	ruling_party = democratic
+	ruling_party = communism
 	last_election = "1932.9.18"
 	election_frequency = 48
 	elections_allowed = no
@@ -111,8 +123,8 @@ set_politics = {
 set_popularities = {
 	democratic = 0
 	neutrality = 10
-	communism = 10
-	fascism = 80
+	fascism = 10
+	communism = 80
 }
 
 set_convoys = 250

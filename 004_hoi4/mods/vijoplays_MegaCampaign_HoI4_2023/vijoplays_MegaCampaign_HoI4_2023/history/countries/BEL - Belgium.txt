@@ -29,6 +29,17 @@ set_technology = {
 	basic_train = 1
 }
 
+create_country_leader = {
+	name = "Teddy Roosevelt"
+	desc = "True defender of Democracy"
+	picture = "Portrait_Teddy_Roosevelt_Leader.dds"
+	expire = "4000.1.1"
+	ideology = liberalism
+	traits = {
+		cornered_fox
+	}
+}
+
 set_politics = {
 	ruling_party = democratic
 	last_election = "1932.11.27"

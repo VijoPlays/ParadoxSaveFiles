@@ -6,6 +6,8 @@ state={
 
 	history={
 		owner = SWI
+add_core_of = SWI
+add_core_of = LUX
 		buildings = {
 			infrastructure = 2
 			373 = {

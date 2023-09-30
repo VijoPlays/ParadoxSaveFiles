@@ -7,6 +7,9 @@ state={
 
 	history={
 		owner = PRU
+add_core_of = ARG
+add_core_of = BRA
+add_core_of = PRU
 		buildings = {
 			infrastructure = 1
 

@@ -173,12 +173,11 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {
-		captain_of_industry = 5
 		il_duce
 	}
 }
 
-create_faction = Grand Femboy Empire
+create_faction = "Grand Femboy Empire"
 add_to_faction = FEM
 add_to_faction = ITA
 add_to_faction = SAU

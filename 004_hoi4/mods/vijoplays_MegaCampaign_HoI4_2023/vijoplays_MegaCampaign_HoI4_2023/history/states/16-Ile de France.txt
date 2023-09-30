@@ -9,6 +9,8 @@ state={
 
 	history={
 		owner = SWI
+add_core_of = SWI
+add_core_of = LUX
 		victory_points = {
 			11506 50 
 		}

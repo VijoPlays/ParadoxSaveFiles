@@ -5,6 +5,13 @@ state = {
 	history = {
 
 		owner = AFG
+add_core_of = RAJ
+add_core_of = SRL
+add_core_of = AFG
+add_core_of = PAK
+add_core_of = NEP
+add_core_of = BHU
+add_core_of = CKK
 		victory_points = {
 			1384 1
 		}

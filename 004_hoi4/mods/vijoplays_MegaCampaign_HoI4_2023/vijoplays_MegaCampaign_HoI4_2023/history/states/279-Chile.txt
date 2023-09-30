@@ -12,6 +12,9 @@ state={
 
 	history={
 		owner = ARG
+add_core_of = ARG
+add_core_of = BRA
+add_core_of = PRU
 		buildings = {
 			infrastructure = 3 #was: 5
 			arms_factory = 1

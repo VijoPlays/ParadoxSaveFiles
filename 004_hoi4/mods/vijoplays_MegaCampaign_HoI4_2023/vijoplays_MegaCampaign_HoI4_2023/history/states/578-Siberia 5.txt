@@ -8,6 +8,8 @@ state={
 
 	history={
 		owner = TAN
+add_core_of  = TAN
+add_core_of = XSM
 		buildings = {
 			infrastructure = 2
 		}

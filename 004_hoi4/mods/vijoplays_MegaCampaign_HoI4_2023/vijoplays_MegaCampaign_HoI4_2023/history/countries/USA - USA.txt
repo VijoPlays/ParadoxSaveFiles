@@ -4,6 +4,17 @@ oob = "USA_1936"
 
 starting_train_buffer = 5
 
+create_country_leader = {
+	name = "Huey Long"
+	desc = "The Long Arm of the People"
+	picture = "Portrait_Huey_Long_Leader.dds"
+	expire = "1999.1.1"
+	ideology = marxism
+	traits = {
+		captain_of_industry
+	}
+}
+
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "USA_1936_naval_mtg"

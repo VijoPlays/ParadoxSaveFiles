@@ -11,6 +11,7 @@ bookmarks = {
 			history = "FEM_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
+				FEM_femboy_supremacy
 			}
 			focuses = {
 			}
@@ -27,7 +28,7 @@ bookmarks = {
 
 		"USA"={
 			history = "USA_GATHERING_STORM_DESC"
-			ideology = communism
+			ideology = marxism
 			ideas = {
 			}
 			focuses = {
@@ -35,7 +36,7 @@ bookmarks = {
 		}
 		"GER"={
 			history = "GER_GATHERING_STORM_DESC"
-			ideology = communism
+			ideology = leninism
 			ideas = {
 				general_staff
 			}
@@ -44,7 +45,7 @@ bookmarks = {
 		}
 		"SWE"={
 			history = "SWE_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = communism
 			ideas = {
 			}	
 			focuses = {
@@ -53,7 +54,7 @@ bookmarks = {
 
 		"JAP"={
 			history = "JAP_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = liberalism
 			ideas = {
 				state_shintoism
 				JAP_zaibatsus
@@ -63,31 +64,26 @@ bookmarks = {
 			}			
 		}
 		"HUN"={
-			history = "SOV_GATHERING_STORM_DESC"
-			ideology = democratic
+			history = "HUN_GATHERING_STORM_DESC"
+			ideology = centrism
 			ideas = {
 			}
 			focuses = {
 			}	
 		}
 		"---"={
-			history = "OTHER_GATjkapHERING_STORM_DESC"
+			history = "OTHER_GATHERING_STORM_DESC"
 		}
 
 
-		# minors from DLC ####
-		"CAN"={
+		# minors ####
+		"BEL"={
 			minor = yes
-			history = "CAN_GATHERING_STORM_DESC"
-			ideology = democratic
+			history = "BEL_GATHERING_STORM_DESC"
+			ideology = liberalism
 			ideas = {
-				CAN_great_depression_1
-				CAN_conscription_crisis
 			}
 			focuses = {
-				CAN_skewer_the_eagle
-				CAN_north_american_alliance
-				CAN_join_comintern
 			}
 		}
 

@@ -8,6 +8,8 @@ state={
 
 	history={
 		owner = YAM
+add_core_of  = YAM
+add_core_of = XSM
 		victory_points = {
 			11375 10
 		}

@@ -5,6 +5,8 @@ state={
 
 	history={
 		owner = GEO
+add_core_of = GRE
+add_core_of = GEO
 		victory_points = {
 			4512 5 
 		}
